@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46f1a382-9960-4fae-80c2-f1a7fcb50ab5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wiki_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wiki_2/parser_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soup_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/14th_Chess_Olympiad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/1978_South_Lebanon_conflict" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/2017_Serbian_protests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/25th_Amendment_to_the_United_States_Constitution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/AI_winter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Abducens_nerve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Agnostic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Akkadian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Alamgir_Hashmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Alan_Turing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Alternate_lighting_of_surfaces" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Amarna_Period" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Amaya_(web_editor)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/American_football" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Amos_Tversky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Amstrad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Amygdala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Amygdala_hijack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Android_Ice_Cream_Sandwich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Angular_(application_platform)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Apollo_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/ArXiv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Araucanian_languages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Archaeplastida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Archi_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Archives" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Argos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Artificial_castling" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Artificial_intelligence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Artificial_photosynthesis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ashgate_Publishing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/At_the_Races" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Atef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Athletics_(physical_culture)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Aurelia_and_Blue_Moon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Australopithecus_aethiopicus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Auto_racing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Automata_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/BBC_News" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bacho_Kiro_cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Baker_Street_tube_station" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Balance_(accounting)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Baradla_cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Basque_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bayes_factors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Baykonurian_glaciation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bebe_Rebozo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Behavioral_neuroscience" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Behavioural_change_theories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bern" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bias_in_education" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bigeye_thresher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bilaterians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Binomial_nomenclature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Binyamina_train_station_suicide_bombing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bioengineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Biological_database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bioprocess_engineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Blacklist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bodybuilding_supplement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bootstrapping_(compilers)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bottlenose_dolphin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Brachiozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Brain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Branching_(version_control)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Brodmann_area_35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Brodmann_area_40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Bruniquel_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Buddhism_and_psychology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Buddhism_in_the_United_Kingdom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cambrian_Series_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Central_Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cerebellar_vermis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cerebellum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Chaitanya_(consciousness)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Charlie_Gillett" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Chatterbot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Chen_Yutian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Chess_endgame" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Chi_Haotian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Chopper_(archaeology)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Chopping_tool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/ChronoZoom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Civil_uprising_phase_of_the_Syrian_Civil_War" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Climate_change_opinion_by_country" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Clinical_study_design" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Clovis_point" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Comparison_of_layout_engines_(Cascading_Style_Sheets)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Compressed_air_energy_storage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Computational_biology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Computer_architecture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Computer_architectures" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Computer_hardware" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Concussions_in_sport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Constitution_Gardens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cooperation_Sea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cornell_University_Library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cornell_University_Press" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Credibility_gap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cumulative_prospect_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cyborg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Cython" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Dani_Rodrik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Darwin_(spacecraft)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Decision_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Delivery_drone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Democratic_Republic_of_Congo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Deuterostomia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Dewadaru_Airport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Dialog_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Dirac_notation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Doha_Declaration" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Dorsal_longitudinal_fasciculus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Doubled_pawns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Drought" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Drug_metabolism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Drug_resistance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Drug_tolerance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Dutch_East_Indies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Echinoderm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Echinozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Economy_of_Lithuania" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Economy_of_Saint_Kitts_and_Nevis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ed_Iacobucci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ed_Musick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Edaphosaurus_pogonias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Education_in_Latvia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Electronic_design_automation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Elo_rating_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Environment_(biophysical)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Epicuticular_wax" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Era_of_Stagnation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Euromaidan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/European_exploration_of_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Evolutionary_algorithms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Evolutionism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Extrasolar_planet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/FIDE_World_Chess_Championship_2005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Famitsu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Fast5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Fertile_crescent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Fiber_disk_laser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Fijians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Firefox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Fisher_equation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Foreign_exchange_market" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Forex_fixing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Formal_verification" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Fortis_and_lenis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Forward_chaining" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Free_Pascal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Free_license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Friendly_artificial_intelligence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Function_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Function_(programming)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/GIS_applications" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ganglion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Garry_Kasparov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Gaston_Gonnet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Gastrotrich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Gender_and_Language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/General_somatic_afferent_fibers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Genetic_algorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Gentoo_Linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Genus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Geodesy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Geoffrey_Hinton" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Geographic_information_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/German_Academy_of_Sciences_Leopoldina" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Giant_sloth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Globalization" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Go_handicaps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Google_Calendar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Google_Current" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Grammatical_conjugation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Greats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Greek_Dark_Ages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Guillotine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Gulf_of_Khambhat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Gymnolaemata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Habenular_trigone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Haifa_bus_16_suicide_bombing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hajime_Sorayama" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Have_Your_Say" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hazard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Heart_valve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hidamari_no_Ki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Himilco" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/History_of_chess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/History_of_malaria" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/History_of_the_web_browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/History_of_wine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Holocene" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Home_automation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hominina" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Homo_erectus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/HotJava" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hot_tapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Human" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Human_Brain_Project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Human_mind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Human_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Human_settlement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Humpy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hutchinson_Commons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hybrid_intelligent_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hypermodernism_(chess)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hypothalamus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Hypothesis_testing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/IBM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/IBrowse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/IFAF_Flag_Football_World_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/ISO_10303" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/ISO_10962" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/ISO_18245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/ISO_6346" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Illinois" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Impact_bias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Inchoative_verb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Indigenous_Australians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Indigenous_peoples_of_the_Americas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Inferior_cerebellar_peduncle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ingo_Rechenberg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Insteon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Instrumentalism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Integer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Interest_rate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Interjection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/International_Organization_for_Standardization" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Interpreted_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Interpreter_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Iron_Age" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Iron_Age_Europe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Iron_meteorite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Islands_of_Angry_Ghosts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Israel_Defense_Forces" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Jessica_Einhorn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/John_Lucas_(philosopher)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/John_von_Neumann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Joseph_Stiglitz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Kaiba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Kananga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Kardashev_scale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Knight_(chess)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/La_Vela_Puerca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Labial_consonant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Land_plants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Languages_of_American_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Laser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Lateral_dorsal_nucleus_of_thalamus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Lateral_globus_pallidus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Law_enforcement_agency" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Le_Moustier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Leishmaniasis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Lepidodendron" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Libertarian_socialism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Library_of_Congress_Control_Number" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Lifetime_(UK_and_Ireland)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Lisa_Jakub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Lisp_(programming_language)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_comprehension" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_Gulag_camps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_ancient_Greek_tyrants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_bridge_failures" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_chatterbots" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_cognitive_biases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_conquistadors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_epidemics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_political_parties_in_Israel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/List_of_revision_control_software" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Lithuanian_Air_Force" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Logic_simulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/London" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Longchenpa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Louisella" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ludlow_epoch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/MEDLINE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/MIT_License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/MacTutor_History_of_Mathematics_archive" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mahayana" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Malik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Maple_computer_algebra_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mark_Selby" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Marshall_Islands" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Materials_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mathematical_and_theoretical_biology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Matrix_multiplication" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mechanism_of_action" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Medication" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Megamouth_shark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mei_Kurokawa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mental_event" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mental_illness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mental_property" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Merb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Merchant_marine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mesoarchean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mesoplodon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Metaobject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Method_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Method_of_least_squares" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Michael_Buerk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Middle_game" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Midline_nuclear_group" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mikhail_Botvinnik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Millennium_Dome" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mindrolling_Monastery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mitre" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Molecular_physics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Moon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Mozilla_application_framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Munafiq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Music_of_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nanoelectromechanical_systems" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nanotronics_Imaging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/National_Library_of_the_Czech_Republic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/National_library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nervous_system_network_models" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Neurophenomenology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Next_generation_of_display_technology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nikolai_Beleloubski" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Noble_court" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nonfarm_payrolls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nonparametric_statistics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Notting_Hill_Carnival" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Noun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Nyaya_Sutras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ochrophyta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Omnitel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/OnTV4U" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Optic_chiasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Optical_Gravitational_Lensing_Experiment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Origin_of_speech" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Orthonectida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Otto_Struve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Outline_of_health_sciences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Outline_of_physical_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Oxford_Companion_To_Chess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Oxford_English_Dictionary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/PBS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/PRADO_(framework)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/PTC_Integrity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Paleolithic_religion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Papal_regalia_and_insignia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Papuan_people" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Patsy_Mink" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pattern_matching" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Paul_Rusch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Peaceful_Revolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Permian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Peter_Thiel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Peterson_Institute_for_International_Economics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pharaoh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pharmacology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Photo_Kano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Physical_geography" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pin_and_hanger_assembly" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pipeline_transport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/PlayStation_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/PlayStation_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Political_party_strength_in_American_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Polykarp_Kusch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Postcolonial_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pottery_Neolithic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Prasinophyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Prehistory_of_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Priapulida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Primary_motor_cortex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Primary_somatosensory_cortex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Princess_Leia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Process_engineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Psychometrics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pterobranchia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pygmy_beaked_whale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Pyotr_Kapitsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Python_(programming_language)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Qadan_culture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Qatabanian_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Quantum_counting_algorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Quantum_information" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Quantum_information_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Quantum_superposition" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Quora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Radical_behaviorism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Railway_stations_in_DRCongo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Raja_yoga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Rapleaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ratio_Club" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Red_Hat_Linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Refal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Regional_planning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Regression_analysis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Richard_Nixon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Rising_Star_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Robotics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Roca_dels_Bous_(archaeological_site)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Rouphozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Russian_Revolution_(1917)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ruth_Porat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/SETL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/SHARE_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/SPICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/SPITBOL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sargasso_Sea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Science_education" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Scientific_method" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Second_Intifada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Selenium" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Selenocentric_orbit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Semantic_Scholar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Seymour_Martin_Lipset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Shading" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Shekelesh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sibudu_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sidecar_World_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Smoking_ceremony" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Snaaib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Social_alienation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Social_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sociology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sociology_of_health_and_illness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Software_configuration_management" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/SolidWorks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sound" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/South_Pacific_Combat_Air_Transport_Command" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Spanish_Uruguayan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Spectrogram" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sports_injury" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Stalinism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Standards_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Stanmore_College" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Starch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/State_space_search" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Statistical_ensemble" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Stellar_evolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Stone_Age" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Stone_tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Stratigraphy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Structural_geology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Subject_pronoun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Subscription_rights" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Subshrub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Subthalamic_nucleus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sugar_alcohol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sulawesi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Sweet_Track" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Synapsid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Synthetic_genomics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Team_sport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Tentacle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Thalassemia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/The_Engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/The_Getaway_(video_game_series)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/The_New_York_Times" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/The_Nixon_Interviews" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Themison_of_Eretria" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Time_evolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Torah" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Torres_Garcia_Museum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Transverse_temporal_gyrus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Trevor_Hastie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Trigeminal_motor_nucleus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Trigeminal_nerve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Trullo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Tsodilo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Tsongkhapa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Turkic_languages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Twilight_of_the_Cockroaches" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Type_physicalism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/UN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Ungaran" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Unified_Modeling_Language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Universal_powerline_bus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/University_of_Arizona" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/University_of_Chicago" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/University_of_Chicago_Press" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Urban_metabolism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Uruguay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Vascular_bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Vasubandhu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Victorian_morals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Video_game_publisher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Virtual_machine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Vitamin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Vulvar_cancer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/WSF_World_Team_Squash_Championships" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Wakanda_(software)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Water_politics_in_the_Nile_Basin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Web_browser_engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Whole_genome_sequencing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Wild_Arms_(video_game)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/William_Holman_Hunt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/William_Sealy_Gosset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Woolwich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/World_Chess_Championship_1934" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/World_Kendo_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/World_Snooker_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Xenoturbella" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/ZeroMQ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Zona_incerta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiki/Zope" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/wiki_1$parser_1.coverage" NAME="parser_1 Coverage Results" MODIFIED="1596438116642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1137153455">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="649" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="649" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parser_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1596438116610" expanded="true" signature="638:812" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/parser_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wiki_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiki_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="parser_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wiki_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.parser_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f1a382-9960-4fae-80c2-f1a7fcb50ab5" name="Default Changelist" comment="" />
+      <created>1596385256027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596385256027</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30609417" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3328551" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/parser_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1596438116610" expanded="true" signature="638:812" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
