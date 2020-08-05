@@ -86,7 +86,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -159,9 +159,15 @@
     <history-entry file="Unittests_in_parser_2_py - 2020.08.03 at 14h 10m 54s.xml">
       <configuration name="Unittests in parser_2.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_parser_2_py - 2020.08.03 at 14h 15m 43s.xml">
+      <configuration name="Unittests in parser_2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_parser_2_py - 2020.08.03 at 14h 16m 16s.xml">
+      <configuration name="Unittests in parser_2.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
