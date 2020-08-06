@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3050e60-570d-4bfe-8cc4-5f2c8058270a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/.idea/wiki_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/parser_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/14th_Chess_Olympiad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/1978_South_Lebanon_conflict" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/2017_Serbian_protests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/25th_Amendment_to_the_United_States_Constitution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/AI_winter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Abducens_nerve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Agnostic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Akkadian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Alamgir_Hashmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Alan_Turing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Alternate_lighting_of_surfaces" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Amarna_Period" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Amaya_(web_editor)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/American_football" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Amos_Tversky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Amstrad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Amygdala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Amygdala_hijack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Android_Ice_Cream_Sandwich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Angular_(application_platform)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Apollo_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/ArXiv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Araucanian_languages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Archaeplastida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Archi_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Archives" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Argos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Artificial_castling" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Artificial_intelligence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Artificial_photosynthesis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ashgate_Publishing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/At_the_Races" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Atef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Athletics_(physical_culture)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Aurelia_and_Blue_Moon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Australopithecus_aethiopicus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Auto_racing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Automata_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/BBC_News" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bacho_Kiro_cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Baker_Street_tube_station" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Balance_(accounting)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Baradla_cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Basque_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bayes_factors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Baykonurian_glaciation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bebe_Rebozo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Behavioral_neuroscience" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Behavioural_change_theories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bern" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bias_in_education" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bigeye_thresher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bilaterians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Binomial_nomenclature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Binyamina_train_station_suicide_bombing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bioengineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Biological_database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bioprocess_engineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Blacklist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bodybuilding_supplement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bootstrapping_(compilers)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bottlenose_dolphin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Brachiozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Brain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Branching_(version_control)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Brodmann_area_35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Brodmann_area_40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Bruniquel_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Buddhism_and_psychology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Buddhism_in_the_United_Kingdom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cambrian_Series_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Central_Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cerebellar_vermis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cerebellum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Chaitanya_(consciousness)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Charlie_Gillett" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Chatterbot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Chen_Yutian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Chess_endgame" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Chi_Haotian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Chopper_(archaeology)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Chopping_tool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/ChronoZoom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Civil_uprising_phase_of_the_Syrian_Civil_War" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Climate_change_opinion_by_country" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Clinical_study_design" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Clovis_point" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Comparison_of_layout_engines_(Cascading_Style_Sheets)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Compressed_air_energy_storage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Computational_biology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Computer_architecture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Computer_architectures" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Computer_hardware" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Concussions_in_sport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Constitution_Gardens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cooperation_Sea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cornell_University_Library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cornell_University_Press" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Credibility_gap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cumulative_prospect_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cyborg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Cython" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Dani_Rodrik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Darwin_(spacecraft)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Decision_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Delivery_drone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Democratic_Republic_of_Congo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Deuterostomia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Dewadaru_Airport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Dialog_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Dirac_notation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Doha_Declaration" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Dorsal_longitudinal_fasciculus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Doubled_pawns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Drought" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Drug_metabolism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Drug_resistance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Drug_tolerance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Dutch_East_Indies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Echinoderm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Echinozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Economy_of_Lithuania" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Economy_of_Saint_Kitts_and_Nevis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ed_Iacobucci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ed_Musick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Edaphosaurus_pogonias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Education_in_Latvia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Electronic_design_automation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Elo_rating_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Environment_(biophysical)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Epicuticular_wax" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Era_of_Stagnation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Euromaidan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/European_exploration_of_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Evolutionary_algorithms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Evolutionism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Extrasolar_planet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/FIDE_World_Chess_Championship_2005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Famitsu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Fast5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Fertile_crescent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Fiber_disk_laser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Fijians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Firefox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Fisher_equation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Foreign_exchange_market" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Forex_fixing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Formal_verification" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Fortis_and_lenis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Forward_chaining" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Free_Pascal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Free_license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Friendly_artificial_intelligence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Function_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Function_(programming)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/GIS_applications" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ganglion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Garry_Kasparov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Gaston_Gonnet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Gastrotrich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Gender_and_Language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/General_somatic_afferent_fibers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Genetic_algorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Gentoo_Linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Genus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Geodesy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Geoffrey_Hinton" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Geographic_information_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/German_Academy_of_Sciences_Leopoldina" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Giant_sloth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Globalization" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Go_handicaps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Google_Calendar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Google_Current" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Grammatical_conjugation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Greats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Greek_Dark_Ages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Guillotine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Gulf_of_Khambhat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Gymnolaemata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Habenular_trigone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Haifa_bus_16_suicide_bombing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hajime_Sorayama" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Have_Your_Say" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hazard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Heart_valve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hidamari_no_Ki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Himilco" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/History_of_chess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/History_of_malaria" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/History_of_the_web_browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/History_of_wine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Holocene" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Home_automation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hominina" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Homo_erectus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/HotJava" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hot_tapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Human" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Human_Brain_Project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Human_mind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Human_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Human_settlement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Humpy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hutchinson_Commons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hybrid_intelligent_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hypermodernism_(chess)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hypothalamus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Hypothesis_testing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/IBM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/IBrowse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/IFAF_Flag_Football_World_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/ISO_10303" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/ISO_10962" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/ISO_18245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/ISO_6346" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Illinois" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Impact_bias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Inchoative_verb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Indigenous_Australians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Indigenous_peoples_of_the_Americas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Inferior_cerebellar_peduncle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ingo_Rechenberg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Insteon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Instrumentalism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Integer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Interest_rate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Interjection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/International_Organization_for_Standardization" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Interpreted_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Interpreter_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Iron_Age" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Iron_Age_Europe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Iron_meteorite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Islands_of_Angry_Ghosts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Israel_Defense_Forces" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Jessica_Einhorn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/John_Lucas_(philosopher)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/John_von_Neumann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Joseph_Stiglitz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Kaiba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Kananga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Kardashev_scale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Knight_(chess)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/La_Vela_Puerca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Labial_consonant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Land_plants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Languages_of_American_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Laser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Lateral_dorsal_nucleus_of_thalamus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Lateral_globus_pallidus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Law_enforcement_agency" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Le_Moustier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Leishmaniasis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Lepidodendron" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Libertarian_socialism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Library_of_Congress_Control_Number" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Lifetime_(UK_and_Ireland)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Lisa_Jakub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Lisp_(programming_language)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_comprehension" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_Gulag_camps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_ancient_Greek_tyrants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_bridge_failures" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_chatterbots" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_cognitive_biases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_conquistadors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_epidemics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_political_parties_in_Israel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/List_of_revision_control_software" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Lithuanian_Air_Force" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Logic_simulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/London" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Longchenpa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Louisella" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ludlow_epoch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/MEDLINE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/MIT_License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/MacTutor_History_of_Mathematics_archive" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mahayana" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Malik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Maple_computer_algebra_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mark_Selby" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Marshall_Islands" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Materials_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mathematical_and_theoretical_biology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Matrix_multiplication" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mechanism_of_action" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Medication" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Megamouth_shark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mei_Kurokawa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mental_event" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mental_illness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mental_property" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Merb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Merchant_marine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mesoarchean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mesoplodon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Metaobject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Method_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Method_of_least_squares" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Michael_Buerk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Middle_game" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Midline_nuclear_group" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mikhail_Botvinnik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Millennium_Dome" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mindrolling_Monastery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mitre" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Molecular_physics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Moon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Mozilla_application_framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Munafiq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Music_of_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nanoelectromechanical_systems" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nanotronics_Imaging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/National_Library_of_the_Czech_Republic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/National_library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nervous_system_network_models" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Neurophenomenology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Next_generation_of_display_technology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nikolai_Beleloubski" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Noble_court" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nonfarm_payrolls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nonparametric_statistics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Notting_Hill_Carnival" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Noun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Nyaya_Sutras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ochrophyta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Omnitel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/OnTV4U" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Optic_chiasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Optical_Gravitational_Lensing_Experiment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Origin_of_speech" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Orthonectida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Otto_Struve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Outline_of_health_sciences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Outline_of_physical_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Oxford_Companion_To_Chess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Oxford_English_Dictionary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/PBS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/PRADO_(framework)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/PTC_Integrity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Paleolithic_religion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Papal_regalia_and_insignia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Papuan_people" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Patsy_Mink" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pattern_matching" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Paul_Rusch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Peaceful_Revolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Permian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Peter_Thiel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Peterson_Institute_for_International_Economics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pharaoh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pharmacology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Photo_Kano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Physical_geography" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pin_and_hanger_assembly" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pipeline_transport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/PlayStation_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/PlayStation_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Political_party_strength_in_American_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Polykarp_Kusch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Postcolonial_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pottery_Neolithic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Prasinophyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Prehistory_of_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Priapulida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Primary_motor_cortex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Primary_somatosensory_cortex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Princess_Leia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Process_engineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Psychometrics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pterobranchia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pygmy_beaked_whale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Pyotr_Kapitsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Python_(programming_language)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Qadan_culture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Qatabanian_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Quantum_counting_algorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Quantum_information" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Quantum_information_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Quantum_superposition" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Quora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Radical_behaviorism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Railway_stations_in_DRCongo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Raja_yoga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Rapleaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ratio_Club" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Red_Hat_Linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Refal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Regional_planning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Regression_analysis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Richard_Nixon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Rising_Star_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Robotics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Roca_dels_Bous_(archaeological_site)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Rouphozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Russian_Revolution_(1917)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ruth_Porat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/SETL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/SHARE_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/SPICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/SPITBOL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sargasso_Sea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Science_education" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Scientific_method" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Second_Intifada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Selenium" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Selenocentric_orbit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Semantic_Scholar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Seymour_Martin_Lipset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Shading" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Shekelesh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sibudu_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sidecar_World_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Smoking_ceremony" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Snaaib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Social_alienation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Social_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sociology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sociology_of_health_and_illness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Software_configuration_management" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/SolidWorks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sound" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/South_Pacific_Combat_Air_Transport_Command" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Spanish_Uruguayan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Spectrogram" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sports_injury" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Stalinism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Standards_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Stanmore_College" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Starch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/State_space_search" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Statistical_ensemble" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Stellar_evolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Stone_Age" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Stone_tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Stratigraphy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Structural_geology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Subject_pronoun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Subscription_rights" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Subshrub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Subthalamic_nucleus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sugar_alcohol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sulawesi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Sweet_Track" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Synapsid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Synthetic_genomics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Team_sport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Tentacle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Thalassemia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/The_Engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/The_Getaway_(video_game_series)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/The_New_York_Times" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/The_Nixon_Interviews" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Themison_of_Eretria" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Time_evolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Torah" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Torres_Garcia_Museum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Transverse_temporal_gyrus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Trevor_Hastie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Trigeminal_motor_nucleus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Trigeminal_nerve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Trullo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Tsodilo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Tsongkhapa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Turkic_languages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Twilight_of_the_Cockroaches" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Type_physicalism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/UN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Ungaran" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Unified_Modeling_Language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Universal_powerline_bus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/University_of_Arizona" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/University_of_Chicago" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/University_of_Chicago_Press" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Urban_metabolism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Uruguay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Vascular_bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Vasubandhu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Victorian_morals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Video_game_publisher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Virtual_machine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Vitamin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Vulvar_cancer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/WSF_World_Team_Squash_Championships" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Wakanda_(software)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Water_politics_in_the_Nile_Basin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Web_browser_engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Whole_genome_sequencing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Wild_Arms_(video_game)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/William_Holman_Hunt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/William_Sealy_Gosset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Woolwich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/World_Chess_Championship_1934" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/World_Kendo_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/World_Snooker_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Xenoturbella" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/ZeroMQ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Zona_incerta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_1/wiki/Zope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/.idea/wiki_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/parser_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/14th_Chess_Olympiad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/1978_South_Lebanon_conflict" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/2017_Serbian_protests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/25th_Amendment_to_the_United_States_Constitution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/AI_winter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Abducens_nerve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Agnostic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Akkadian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Alamgir_Hashmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Alan_Turing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Alternate_lighting_of_surfaces" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Amarna_Period" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Amaya_(web_editor)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/American_football" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Amos_Tversky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Amstrad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Amygdala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Amygdala_hijack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Android_Ice_Cream_Sandwich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Angular_(application_platform)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Apollo_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/ArXiv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Araucanian_languages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Archaeplastida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Archi_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Archives" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Argos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Artificial_castling" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Artificial_intelligence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Artificial_photosynthesis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ashgate_Publishing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/At_the_Races" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Atef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Athletics_(physical_culture)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Aurelia_and_Blue_Moon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Australopithecus_aethiopicus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Auto_racing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Automata_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/BBC_News" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bacho_Kiro_cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Baker_Street_tube_station" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Balance_(accounting)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Baradla_cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Basque_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bayes_factors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Baykonurian_glaciation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bebe_Rebozo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Behavioral_neuroscience" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Behavioural_change_theories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bern" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bias_in_education" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bigeye_thresher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bilaterians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Binomial_nomenclature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Binyamina_train_station_suicide_bombing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bioengineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Biological_database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bioprocess_engineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Blacklist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bodybuilding_supplement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bootstrapping_(compilers)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bottlenose_dolphin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Brachiozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Brain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Branching_(version_control)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Brodmann_area_35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Brodmann_area_40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Bruniquel_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Buddhism_and_psychology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Buddhism_in_the_United_Kingdom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cambrian_Series_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Central_Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cerebellar_vermis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cerebellum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Chaitanya_(consciousness)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Charlie_Gillett" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Chatterbot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Chen_Yutian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Chess_endgame" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Chi_Haotian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Chopper_(archaeology)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Chopping_tool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/ChronoZoom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Civil_uprising_phase_of_the_Syrian_Civil_War" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Climate_change_opinion_by_country" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Clinical_study_design" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Clovis_point" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Comparison_of_layout_engines_(Cascading_Style_Sheets)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Compressed_air_energy_storage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Computational_biology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Computer_architecture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Computer_architectures" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Computer_hardware" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Concussions_in_sport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Constitution_Gardens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cooperation_Sea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cornell_University_Library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cornell_University_Press" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Credibility_gap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cumulative_prospect_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cyborg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Cython" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Dani_Rodrik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Darwin_(spacecraft)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Decision_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Delivery_drone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Democratic_Republic_of_Congo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Deuterostomia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Dewadaru_Airport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Dialog_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Dirac_notation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Doha_Declaration" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Dorsal_longitudinal_fasciculus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Doubled_pawns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Drought" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Drug_metabolism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Drug_resistance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Drug_tolerance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Dutch_East_Indies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Echinoderm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Echinozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Economy_of_Lithuania" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Economy_of_Saint_Kitts_and_Nevis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ed_Iacobucci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ed_Musick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Edaphosaurus_pogonias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Education_in_Latvia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Electronic_design_automation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Elo_rating_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Environment_(biophysical)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Epicuticular_wax" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Era_of_Stagnation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Euromaidan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/European_exploration_of_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Evolutionary_algorithms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Evolutionism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Extrasolar_planet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/FIDE_World_Chess_Championship_2005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Famitsu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Fast5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Fertile_crescent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Fiber_disk_laser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Fijians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Firefox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Fisher_equation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Foreign_exchange_market" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Forex_fixing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Formal_verification" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Fortis_and_lenis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Forward_chaining" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Free_Pascal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Free_license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Friendly_artificial_intelligence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Function_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Function_(programming)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/GIS_applications" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ganglion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Garry_Kasparov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Gaston_Gonnet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Gastrotrich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Gender_and_Language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/General_somatic_afferent_fibers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Genetic_algorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Gentoo_Linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Genus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Geodesy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Geoffrey_Hinton" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Geographic_information_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/German_Academy_of_Sciences_Leopoldina" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Giant_sloth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Globalization" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Go_handicaps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Google_Calendar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Google_Current" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Grammatical_conjugation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Greats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Greek_Dark_Ages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Guillotine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Gulf_of_Khambhat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Gymnolaemata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Habenular_trigone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Haifa_bus_16_suicide_bombing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hajime_Sorayama" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Have_Your_Say" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hazard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Heart_valve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hidamari_no_Ki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Himilco" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/History_of_chess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/History_of_malaria" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/History_of_the_web_browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/History_of_wine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Holocene" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Home_automation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hominina" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Homo_erectus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/HotJava" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hot_tapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Human" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Human_Brain_Project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Human_mind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Human_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Human_settlement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Humpy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hutchinson_Commons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hybrid_intelligent_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hypermodernism_(chess)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hypothalamus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Hypothesis_testing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/IBM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/IBrowse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/IFAF_Flag_Football_World_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/ISO_10303" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/ISO_10962" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/ISO_18245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/ISO_6346" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Illinois" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Impact_bias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Inchoative_verb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Indigenous_Australians" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Indigenous_peoples_of_the_Americas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Inferior_cerebellar_peduncle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ingo_Rechenberg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Insteon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Instrumentalism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Integer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Interest_rate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Interjection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/International_Organization_for_Standardization" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Interpreted_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Interpreter_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Iron_Age" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Iron_Age_Europe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Iron_meteorite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Islands_of_Angry_Ghosts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Israel_Defense_Forces" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Jessica_Einhorn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/John_Lucas_(philosopher)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/John_von_Neumann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Joseph_Stiglitz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Kaiba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Kananga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Kardashev_scale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Knight_(chess)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/La_Vela_Puerca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Labial_consonant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Land_plants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Languages_of_American_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Laser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Lateral_dorsal_nucleus_of_thalamus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Lateral_globus_pallidus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Law_enforcement_agency" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Le_Moustier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Leishmaniasis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Lepidodendron" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Libertarian_socialism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Library_of_Congress_Control_Number" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Lifetime_(UK_and_Ireland)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Lisa_Jakub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Lisp_(programming_language)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_comprehension" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_Gulag_camps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_ancient_Greek_tyrants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_bridge_failures" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_chatterbots" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_cognitive_biases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_conquistadors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_epidemics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_political_parties_in_Israel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/List_of_revision_control_software" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Lithuanian_Air_Force" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Logic_simulation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/London" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Longchenpa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Louisella" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ludlow_epoch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/MEDLINE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/MIT_License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/MacTutor_History_of_Mathematics_archive" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mahayana" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Malik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Maple_computer_algebra_system" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mark_Selby" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Marshall_Islands" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Materials_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mathematical_and_theoretical_biology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Matrix_multiplication" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mechanism_of_action" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Medication" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Megamouth_shark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mei_Kurokawa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mental_event" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mental_illness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mental_property" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Merb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Merchant_marine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mesoarchean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mesoplodon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Metaobject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Method_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Method_of_least_squares" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Michael_Buerk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Middle_game" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Midline_nuclear_group" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mikhail_Botvinnik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Millennium_Dome" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mindrolling_Monastery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mitre" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Molecular_physics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Moon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Mozilla_application_framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Munafiq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Music_of_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nanoelectromechanical_systems" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nanotronics_Imaging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/National_Library_of_the_Czech_Republic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/National_library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nervous_system_network_models" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Neurophenomenology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Next_generation_of_display_technology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nikolai_Beleloubski" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Noble_court" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nonfarm_payrolls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nonparametric_statistics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Notting_Hill_Carnival" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Noun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Nyaya_Sutras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ochrophyta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Omnitel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/OnTV4U" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Optic_chiasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Optical_Gravitational_Lensing_Experiment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Origin_of_speech" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Orthonectida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Otto_Struve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Outline_of_health_sciences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Outline_of_physical_science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Oxford_Companion_To_Chess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Oxford_English_Dictionary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/PBS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/PRADO_(framework)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/PTC_Integrity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Paleolithic_religion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Papal_regalia_and_insignia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Papuan_people" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Patsy_Mink" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pattern_matching" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Paul_Rusch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Peaceful_Revolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Permian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Peter_Thiel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Peterson_Institute_for_International_Economics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pharaoh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pharmacology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Photo_Kano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Physical_geography" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pin_and_hanger_assembly" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pipeline_transport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/PlayStation_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/PlayStation_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Political_party_strength_in_American_Samoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Polykarp_Kusch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Postcolonial_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pottery_Neolithic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Prasinophyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Prehistory_of_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Priapulida" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Primary_motor_cortex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Primary_somatosensory_cortex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Princess_Leia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Process_engineering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Psychometrics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pterobranchia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pygmy_beaked_whale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Pyotr_Kapitsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Python_(programming_language)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Qadan_culture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Qatabanian_language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Quantum_counting_algorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Quantum_information" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Quantum_information_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Quantum_superposition" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Quora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Radical_behaviorism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Railway_stations_in_DRCongo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Raja_yoga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Rapleaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ratio_Club" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Red_Hat_Linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Refal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Regional_planning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Regression_analysis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Richard_Nixon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Rising_Star_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Robotics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Roca_dels_Bous_(archaeological_site)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Rouphozoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Russian_Revolution_(1917)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ruth_Porat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/SETL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/SHARE_(computing)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/SPICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/SPITBOL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sargasso_Sea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Science_education" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Scientific_method" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Second_Intifada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Selenium" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Selenocentric_orbit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Semantic_Scholar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Seymour_Martin_Lipset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Shading" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Shekelesh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sibudu_Cave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sidecar_World_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Smoking_ceremony" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Snaaib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Social_alienation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Social_theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sociology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sociology_of_health_and_illness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Software_configuration_management" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/SolidWorks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sound" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/South_Pacific_Combat_Air_Transport_Command" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Spanish_Uruguayan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Spectrogram" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sports_injury" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Stalinism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Standards_Australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Stanmore_College" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Starch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/State_space_search" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Statistical_ensemble" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Stellar_evolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Stone_Age" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Stone_tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Stratigraphy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Structural_geology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Subject_pronoun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Subscription_rights" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Subshrub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Subthalamic_nucleus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sugar_alcohol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sulawesi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Sweet_Track" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Synapsid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Synthetic_genomics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Team_sport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Tentacle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Thalassemia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/The_Engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/The_Getaway_(video_game_series)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/The_New_York_Times" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/The_Nixon_Interviews" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Themison_of_Eretria" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Time_evolution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Torah" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Torres_Garcia_Museum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Transverse_temporal_gyrus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Trevor_Hastie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Trigeminal_motor_nucleus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Trigeminal_nerve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Trullo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Tsodilo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Tsongkhapa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Turkic_languages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Twilight_of_the_Cockroaches" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Type_physicalism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/UN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Ungaran" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Unified_Modeling_Language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Universal_powerline_bus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/University_of_Arizona" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/University_of_Chicago" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/University_of_Chicago_Press" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Urban_metabolism" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Uruguay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Vascular_bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Vasubandhu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Victorian_morals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Video_game_publisher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Virtual_machine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Vitamin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Vulvar_cancer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/WSF_World_Team_Squash_Championships" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Wakanda_(software)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Water_politics_in_the_Nile_Basin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Web_browser_engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Whole_genome_sequencing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Wild_Arms_(video_game)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/William_Holman_Hunt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/William_Sealy_Gosset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Woolwich" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/World_Chess_Championship_1934" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/World_Kendo_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/World_Snooker_Championship" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Xenoturbella" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/ZeroMQ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Zona_incerta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikik_parser/wiki_2/wiki/Zope" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/converter_sample$currency.coverage" NAME="currency Coverage Results" MODIFIED="1596740065239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/converter_sample$test.coverage" NAME="test Coverage Results" MODIFIED="1596740462291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-228675323">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="302" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="302" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/currency.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/currency.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="converter_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="converter_sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="currency" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="converter_sample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/currency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="converter_sample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.currency" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.currency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3050e60-570d-4bfe-8cc4-5f2c8058270a" name="Default Changelist" comment="" />
+      <created>1596737457079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596737457079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.052704576" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998565" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
